@@ -1,0 +1,12 @@
+*
+
+
+!src/
+!src/main.rs
+
+
+!Cargo.toml
+!Cargo.lock
+
+
+!.gitignore
